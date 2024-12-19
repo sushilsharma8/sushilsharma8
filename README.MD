@@ -57,8 +57,4 @@ I thrive on challenges and constantly seek opportunities to learn and grow. My g
 ### **Fun Fact**
 When I'm not coding, I enjoy exploring new technologies, playing video games, and reading about AI advancements.
 
----
 
-### **GitHub Stats**
-![Sushil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushilsharma8&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsharma8&layout=compact&theme=radical)
