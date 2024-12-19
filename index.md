@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# **Sushil Sharma**
 
-You can use the [editor on GitHub](https://github.com/sushilsharma8/sushilsharma8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+👋 Hi, I'm Sushil!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### **About Me**
+I'm a passionate Python Developer and a final-year Engineering student specializing in Artificial Intelligence and Machine Learning. My work revolves around building efficient back-end systems and scalable web applications, with a focus on problem-solving and innovation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I thrive on challenges and constantly seek opportunities to learn and grow. My goal is to contribute to impactful projects and deliver exceptional software solutions.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### **Tech Stack**
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Django, Django REST Framework, Flask, Bootstrap  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Tools:** Git, VS Code, Postman, PyCharm  
+**Methodologies:** Agile Development, Test-Driven Development  
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### **Professional Experience**
+**Python Developer Intern** (Kenko AI)  
+- Developed and optimized system functionalities to enhance performance.  
+- Implemented real-time communication solutions and email delivery systems.  
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### **Projects**
+- **Valorant Victory Predictor**: Built a machine learning model to predict match outcomes based on in-game data.  
+- **Potato Disease Classification**: Developed a computer vision model to detect potato plant diseases using TensorFlow and Keras.  
+- **RESTful API for E-Commerce**: Created a scalable API for an e-commerce platform using Django REST Framework.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+### **What I'm Currently Working On**
+- Enhancing skills in Python back-end development with Django.  
+- Exploring front-end development with React.js.  
+- Experimenting with real-time features using WebSockets.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sushilsharma8/sushilsharma8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### **Achievements**
+- Successfully implemented efficient systems during my internship at Kenko AI.  
+- Received recognition for academic projects in Artificial Intelligence and Machine Learning.  
+- Consistently meet deadlines while delivering high-quality solutions.  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+### **Let's Connect!**
+- **LinkedIn:** [Your LinkedIn Profile Link]  
+- **GitHub:** [github.com/sushilsharma8](https://github.com/sushilsharma8)  
+
+---
+
+### **Fun Fact**
+When I'm not coding, I enjoy exploring new technologies, playing video games, and reading about AI advancements.
+
