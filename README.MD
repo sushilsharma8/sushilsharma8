@@ -5,7 +5,7 @@
 ---
 
 ### **About Me**
-I'm a passionate Python Developer and a final-year Engineering student specializing in Artificial Intelligence and Machine Learning. My work revolves around building efficient back-end systems and scalable web applications, with a focus on problem-solving and innovation.
+I'm a passionate Python Developer and Graduated in Bachelors of Engineering in Artificial Intelligence and Machine Learning. My work revolves around building efficient back-end systems and scalable web applications, with a focus on problem-solving and innovation.
 
 I thrive on challenges and constantly seek opportunities to learn and grow. My goal is to contribute to impactful projects and deliver exceptional software solutions.
 
@@ -37,7 +37,7 @@ I thrive on challenges and constantly seek opportunities to learn and grow. My g
 ### **What I'm Currently Working On**
 - Enhancing skills in Python back-end development with Django.  
 - Exploring front-end development with React.js.  
-- Experimenting with real-time features using WebSockets.  
+- Experimenting with different AI Technologies.  
 
 ---
 
@@ -49,7 +49,7 @@ I thrive on challenges and constantly seek opportunities to learn and grow. My g
 ---
 
 ### **Let's Connect!**
-- **LinkedIn:** [Your LinkedIn Profile Link]  
+- **LinkedIn:** [https://www.linkedin.com/in/itzsushilsharma/]  
 - **GitHub:** [github.com/sushilsharma8](https://github.com/sushilsharma8)  
 
 ---
