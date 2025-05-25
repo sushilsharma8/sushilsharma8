@@ -15,15 +15,20 @@ I thrive on challenges and constantly seek opportunities to learn and grow. My g
 
 ### **Tech Stack**
 **Languages:** Python, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Django, Django REST Framework, Flask, Bootstrap  
+**Frameworks & Libraries:** Django, Django REST Framework, FastAPI, Flask, Bootstrap  
 **Databases:** MySQL, PostgreSQL, SQLite  
-**Tools:** Git, VS Code, Postman, PyCharm  
+**Tools:** Git, VS Code, Postman, PyCharm, Cursor  
 **Methodologies:** Agile Development, Test-Driven Development  
 
 ---
 
 ### **Professional Experience**
-**Python Developer Intern** (Kenko AI)  
+
+**Python Developer** (CentoCode Technologies Pvt Ltd.)  
+- Developed a Retrieval-Augmented Generation (RAG) system using ChromaDB and optimized query performance by 15% through efficient indexing strategies.  
+- Designed and implemented REST APIs using FastAPI, adhering to OpenAPI specifications and ensuring high availability and scalability.
+
+**Software Developer Intern** (Kenko AI)  
 - Developed and optimized system functionalities to enhance performance.  
 - Implemented real-time communication solutions and email delivery systems.  
 
