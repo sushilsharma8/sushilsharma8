@@ -93,18 +93,18 @@ class Sushil:
 ```mermaid
 timeline
     title Career Timeline
-    Dec 2023 : Python Developer (Freelance) — Centocode Technologies
-             : RAG pipelines · FAISS · Semantic search
     Feb 2024 : Software Developer — Kenko AI
              : Email automation · WebSockets · -85% bounce rate
-    May 2024 : Backend Developer — DharmikVibes
+    Dec 2024 : Python Developer (Freelance) — Centocode Technologies
+             : RAG pipelines · FAISS · Semantic search
+    May 2025 : Backend Developer — DharmikVibes
              : Multi-module SaaS · Django · Razorpay
-    Nov 2024 : AI Engineer — IdeaClan (FabFunnel)
+    Oct 2025 : AI Engineer — IdeaClan (FabFunnel)
              : Genie 2.0 · TikTok Launch microservice · Present
 ```
 
 <details>
-<summary><b>🚀 AI Engineer @ IdeaClan (FabFunnel) — Nov 2024 – Present</b></summary>
+<summary><b>🚀 AI Engineer @ IdeaClan (FabFunnel) — Oct 2025 – Present</b></summary>
 <br/>
 
 - Built **Genie 2.0**, a creative automation platform generating optimized ad creatives (images, UGC videos, storytelling ads) via automated AI workflows.
@@ -115,7 +115,7 @@ timeline
 </details>
 
 <details>
-<summary><b>🏗️ Backend Developer @ DharmikVibes — May 2024 – Oct 2024</b></summary>
+<summary><b>🏗️ Backend Developer @ DharmikVibes — May 2025 – Oct 2025</b></summary>
 <br/>
 
 - Architected a multi-module SaaS platform (temple management, astrologer services, travel booking) using Django, PostgreSQL, and Docker.
@@ -126,7 +126,7 @@ timeline
 </details>
 
 <details>
-<summary><b>🔍 Python Developer (Freelance) @ Centocode Technologies — Dec 2023 – Apr 2024</b></summary>
+<summary><b>🔍 Python Developer (Freelance) @ Centocode Technologies — Dec 2024 – Apr 2025</b></summary>
 <br/>
 
 - Built semantic search services using OpenAI Embeddings and FAISS with adaptive chunking strategies.
